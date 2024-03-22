@@ -23,6 +23,9 @@ The cats in the clowder must get along.
 ### 1. Clone the Repository
 
 ```bash
+git clone https://github.com/vishgits/Catrancher-React.git
+cd Catrancher-React
+OR
 unzip Catrancher-react
 cd Catrancher-react
 ```
